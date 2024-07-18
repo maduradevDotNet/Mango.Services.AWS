@@ -64,7 +64,31 @@ The `index.html` file is the main HTML file for this project. It includes the ba
 </body>
 </html>
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+The styles.css file contains the basic styling for the project.
 
-This README file provides a clear and concise overview of your project, its structure, and instructions for getting started. It also includes the HTML and CSS code sections as requested.
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+    background: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+#License
+#This project is licensed under the MIT License - see the LICENSE file for details.
+
+#Contributing
+#Contributions are welcome! Please open an issue or submit a pull request for any changes or additions you would like to make.
+
+
